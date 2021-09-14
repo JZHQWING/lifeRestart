@@ -3,13 +3,27 @@
         "id": "1001",
         "name": "随身玉佩",
         "description": "或许有护佑作用",
-        "grade": 0
+        "grade": 0,
+        "effect": {
+            "SPR": 6,
+            "MNY": 6,
+            "CHR": 6,
+            "STR": 6,
+            "INT": 6
+        }
     },
     "1002": {
         "id": "1002",
         "name": "红肚兜",
         "description": "小时候死亡率降低",
-        "grade": 0
+        "grade": 0,
+        "effect": {
+            "SPR": 6,
+            "MNY": 6,
+            "CHR": 6,
+            "STR": 6,
+            "INT": 6
+        }
     },
     "1003": {
         "id": "1003",
@@ -38,7 +52,14 @@
         "id": "1005",
         "name": "动漫高手",
         "description": "入宅的可能性翻6倍",
-        "grade": 2
+        "grade": 2,
+        "effect": {
+            "SPR": 6,
+            "MNY": 6,
+            "CHR": 6,
+            "STR": 6,
+            "INT": 6
+        }
     },
     "1006": {
         "id": "1006",
@@ -131,7 +152,14 @@
         "id": "1015",
         "name": "家中老大",
         "description": "你最受父母宠爱",
-        "grade": 1
+        "grade": 1,
+        "effect": {
+            "SPR": 6,
+            "MNY": 6,
+            "CHR": 6,
+            "STR": 6,
+            "INT": 6
+        }
     },
     "1016": {
         "id": "1016",
@@ -151,11 +179,11 @@
         "description": "所有属性+1",
         "grade": 2,
         "effect": {
-            "SPR": 1,
-            "MNY": 1,
-            "CHR": 1,
-            "STR": 1,
-            "INT": 1
+            "SPR": 6,
+            "MNY": 6,
+            "CHR": 6,
+            "STR": 6,
+            "INT": 6
         }
     },
     "1019": {
@@ -188,7 +216,14 @@
         "id": "1022",
         "name": "属蛇",
         "description": "不会被蛇咬死",
-        "grade": 0
+        "grade": 0,
+        "effect": {
+            "SPR": 6,
+            "MNY": 6,
+            "CHR": 6,
+            "STR": 6,
+            "INT": 6
+        }
     },
     "1023": {
         "id": "1023",
@@ -260,7 +295,14 @@
         "id": "1030",
         "name": "宠物大师",
         "description": "宠物不会意外死亡",
-        "grade": 0
+        "grade": 0,
+        "effect": {
+            "SPR": 6,
+            "MNY": 6,
+            "CHR": 6,
+            "STR": 6,
+            "INT": 6
+        }
     },
     "1031": {
         "id": "1031",
